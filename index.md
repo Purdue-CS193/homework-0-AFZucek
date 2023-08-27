@@ -2,8 +2,8 @@
 
 # Addison's First CS 193 Homework
 My Favorite things about CS 193:
--Only meets once a week
--Getting to learn cool topics like how to use terminal
+- Only meets once a week
+- Getting to learn cool topics like how to use terminal
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
